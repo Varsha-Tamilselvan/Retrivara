@@ -156,18 +156,6 @@ http://localhost:8501
 
 ---
 
-## 🎯 Future Enhancements
-
-* Multi-document support
-* OCR support for scanned PDFs
-* Conversation history
-* Source citation display
-* Cloud deployment
-* User authentication
-* Export answers to PDF
-
----
-
 ## 👩‍💻 Author
 
 **Varsha **
