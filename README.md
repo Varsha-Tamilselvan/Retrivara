@@ -13,13 +13,13 @@ The application combines document processing, semantic search, vector databases,
 ### Home Page
 
 <p align="center">
-  <img src="images/home.png" alt="Retrivara Home Page" width="800">
+  <img src="images/homepage.png" alt="Retrivara Home Page" width="800">
 </p>
 
 ### Question Answering Interface
 
 <p align="center">
-  <img src="images/qa_interface.png" alt="Retrivara QA Interface" width="800">
+  <img src="images/qa.png" alt="Retrivara QA Interface" width="800">
 </p>
 
 ---
